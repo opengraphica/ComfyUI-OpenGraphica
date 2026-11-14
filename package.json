@@ -1,0 +1,11 @@
+{
+    "name": "ComfyUI-OpenGraphica",
+    "version": "0.0.1",
+    "author": "OpenGraphica devs",
+    "license": "MIT",
+    "description": "A ComfyUI plugin that adds an option to edit images offline in the OpenGraphica image editor.",
+    "private": true,
+    "dependencies": {
+        "opengraphica": "^0.0.6"
+    }
+}
