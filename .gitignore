@@ -1,3 +1,4 @@
 __pycache__
 local_modules
-node_modules
+/node_modules/*
+!/node_modules/opengraphica/
