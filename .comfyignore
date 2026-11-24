@@ -1,0 +1,4 @@
+.git
+.github/
+local_modules
+node_modules/.cache/
